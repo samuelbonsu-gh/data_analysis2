@@ -2,7 +2,7 @@
 
 ## 📊 Overview
 
-This project analyzes Facebook ad campaign data for Q4 2023 across the UK, Nigeria, and other African countries. It was developed as part of my internship project with **Digital Echoes**.
+This project analyzes Facebook ad campaign data for quarter four (last three months) of 2023 across the UK, Nigeria, and other African countries. It was developed as part of my internship project with **Digital Echoes**.
 
 The goal was to evaluate the performance of campaigns using key performance indicators (KPIs) and compare outcomes to business benchmarks to identify opportunities for improvement.
 
@@ -22,12 +22,13 @@ The goal was to evaluate the performance of campaigns using key performance indi
 
 - Microsoft PowerPoint (for the report)
 - Microsoft Excel (data cleaning and KPI analysis)
+- **SQL** (for querying and analyzing campaign data)
 
 ---
 
 ## 📈 Key Insights
 
-- A total of **48 campaigns** were run in Q4 2023
+- A total of **48 campaigns** were run in quarter four of 2023
 - **United Kingdom** had the highest number of campaigns (62.5%) but a very high CPR ($193.76)
 - **Nigeria** had a much lower CPR, closer to its $0.30 benchmark
 - Other countries underperformed in leads generated and CPR
