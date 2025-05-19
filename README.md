@@ -48,11 +48,11 @@ The goal was to evaluate the performance of campaigns using key performance indi
 
 Add screenshots of visuals here:
 
-![Campaigns by Country](images/campaigns_by_country.png)
+![Campaigns by Country](KPI 1.png)
 
-![Leads by Country](images/leads_by_country.png)
+![Leads by Country](KPI 4 (Amount spent and Leads generated).png)
 
-![Cost Per Result Comparison](images/cpr_by_country.png)
+![Cost Per Result Comparison](KPI 5 (Cost per Results).png)
 
 ---
 
