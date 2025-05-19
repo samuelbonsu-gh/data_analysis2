@@ -48,6 +48,9 @@ The goal was to evaluate the performance of campaigns using key performance indi
 ## 📷 Visuals
 
 Add screenshots of visuals here:
+![Dashboard](Dashboard.png)
+
+![Campaing_Status](campaign_status.png)
 
 ![Campaigns by Country](kpi_1.png)
 
